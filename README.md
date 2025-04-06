@@ -1,4 +1,6 @@
 🎮 Jogoteca
+
+
 Jogoteca é um projeto web desenvolvido em Flask com banco de dados MySQL, que simula um sistema de cadastro de jogos e usuários. O sistema permite visualizar, cadastrar e gerenciar jogos, além de autenticação de usuários com senhas protegidas por hash.
 
 💻 Tecnologias utilizadas
